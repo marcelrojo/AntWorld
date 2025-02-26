@@ -33,5 +33,5 @@ The simulation dynamically tracks resource depletion and concludes when larvae a
 Run AntWorld.jar from out/artifacts/AntWorld_jar to launch the simulation.
 - Source Code & Development:
 The main entry point is Main.java, located in src/main/java/com/yourpackage/gui. Open this file in an IDE like IntelliJ IDEA to modify or run the program.
-- Documentation:
+- Documentation:  
 Full documentation is available in the Documentation folder. Open index.html for a detailed project overview.
